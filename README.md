@@ -4,6 +4,6 @@
   
   Ipad版本QQ空间
 
-![](https://github.com/lijs11/QQZone/blob/master/QQZone/Other/secondarytile.png?raw=true)
+![](https://github.com/lijs11/QQZone/blob/master/QQZone/Other/QQZone.gif)
 
 
